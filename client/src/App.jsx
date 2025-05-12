@@ -4,7 +4,7 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
 import EmployeeDetails from './pages/EmployeeDetails';
-import Navbar from './components/Navbar';
+import Navbar from './components/NavBar';
 import CreateEmployee from './pages/CreateEmployee';
 import ProtectedRoute from './components/ProtectedRoute';
 

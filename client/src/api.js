@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:4000/api',
+  baseURL: 'https://prodigy-fs-02-d8ac.onrender.com/api',
 });
 
 API.interceptors.request.use((req) => {
